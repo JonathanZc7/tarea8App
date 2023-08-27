@@ -8,3 +8,6 @@
 			return $Usuario->get()->getResultArray();
 		}
 	}
+
+
+
